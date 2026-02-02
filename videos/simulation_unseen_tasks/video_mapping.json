@@ -1,0 +1,130 @@
+{
+  "BimanualPlaceAvocadoFromBowlIntoBin": {
+    "baseline": {
+      "40": "BimanualPlaceAvocadoFromBowlIntoBin-riverway-sim-bc-rollout-2025-09-08T19-55-41+00-00-episode_40.pkl-mosaic_cam2.mp4",
+      "8": "BimanualPlaceAvocadoFromBowlIntoBin-riverway-sim-bc-rollout-2025-09-08T19-55-41+00-00-episode_8.pkl-mosaic_cam2.mp4",
+      "24": "BimanualPlaceAvocadoFromBowlIntoBin-riverway-sim-bc-rollout-2025-09-08T19-55-41+00-00-episode_24.pkl-mosaic_cam2.mp4",
+      "0": "BimanualPlaceAvocadoFromBowlIntoBin-riverway-sim-bc-rollout-2025-09-08T19-55-41+00-00-episode_0.pkl-mosaic_cam2.mp4",
+      "30": "BimanualPlaceAvocadoFromBowlIntoBin-riverway-sim-bc-rollout-2025-09-08T19-55-41+00-00-episode_30.pkl-mosaic_cam2.mp4"
+    },
+    "final": {
+      "0": "BimanualPlaceAvocadoFromBowlIntoBin-riverway-sim-bc-rollout-2025-10-28T04-22-38+00-00-episode_0.pkl-mosaic_cam2.mp4",
+      "8": "BimanualPlaceAvocadoFromBowlIntoBin-riverway-sim-bc-rollout-2025-10-28T04-22-38+00-00-episode_8.pkl-mosaic_cam2.mp4",
+      "24": "BimanualPlaceAvocadoFromBowlIntoBin-riverway-sim-bc-rollout-2025-10-28T04-22-38+00-00-episode_24.pkl-mosaic_cam2.mp4",
+      "40": "BimanualPlaceAvocadoFromBowlIntoBin-riverway-sim-bc-rollout-2025-10-28T04-22-38+00-00-episode_40.pkl-mosaic_cam2.mp4",
+      "30": "BimanualPlaceAvocadoFromBowlIntoBin-riverway-sim-bc-rollout-2025-10-28T04-22-38+00-00-episode_30.pkl-mosaic_cam2.mp4"
+    }
+  },
+  "PlaceFruitIntoContainer": {
+    "baseline": {
+      "5": "PlaceFruitIntoContainer-cabot-sim-bc-rollout-2025-10-08T17-27-32+00-00-episode_5.pkl-mosaic_cam0.mp4",
+      "0": "PlaceFruitIntoContainer-cabot-sim-bc-rollout-2025-10-08T17-27-32+00-00-episode_0.pkl-mosaic_cam0.mp4",
+      "2": "PlaceFruitIntoContainer-cabot-sim-bc-rollout-2025-10-08T17-27-32+00-00-episode_2.pkl-mosaic_cam0.mp4",
+      "8": "PlaceFruitIntoContainer-cabot-sim-bc-rollout-2025-10-08T17-27-32+00-00-episode_8.pkl-mosaic_cam0.mp4",
+      "1": "PlaceFruitIntoContainer-cabot-sim-bc-rollout-2025-10-08T17-27-32+00-00-episode_1.pkl-mosaic_cam0.mp4"
+    },
+    "final": {
+      "8": "PlaceFruitIntoContainer-cabot-sim-bc-rollout-2025-10-28T01-38-48+00-00-episode_8.pkl-mosaic_cam0.mp4",
+      "1": "PlaceFruitIntoContainer-cabot-sim-bc-rollout-2025-10-28T01-38-48+00-00-episode_1.pkl-mosaic_cam0.mp4",
+      "5": "PlaceFruitIntoContainer-cabot-sim-bc-rollout-2025-10-28T01-38-48+00-00-episode_5.pkl-mosaic_cam0.mp4",
+      "2": "PlaceFruitIntoContainer-cabot-sim-bc-rollout-2025-10-28T01-38-48+00-00-episode_2.pkl-mosaic_cam0.mp4",
+      "0": "PlaceFruitIntoContainer-cabot-sim-bc-rollout-2025-10-28T01-38-48+00-00-episode_0.pkl-mosaic_cam0.mp4"
+    }
+  },
+  "PlaceOrangeIntoContainer": {
+    "baseline": {
+      "28": "PlaceOrangeIntoContainer-cabot-sim-bc-rollout-2025-10-08T17-45-39+00-00-episode_28.pkl-mosaic_cam0.mp4",
+      "37": "PlaceOrangeIntoContainer-cabot-sim-bc-rollout-2025-10-08T17-45-39+00-00-episode_37.pkl-mosaic_cam0.mp4",
+      "5": "PlaceOrangeIntoContainer-cabot-sim-bc-rollout-2025-10-08T17-45-39+00-00-episode_5.pkl-mosaic_cam0.mp4",
+      "4": "PlaceOrangeIntoContainer-cabot-sim-bc-rollout-2025-10-08T17-45-39+00-00-episode_4.pkl-mosaic_cam0.mp4",
+      "10": "PlaceOrangeIntoContainer-cabot-sim-bc-rollout-2025-10-08T17-45-39+00-00-episode_10.pkl-mosaic_cam0.mp4"
+    },
+    "final": {
+      "10": "PlaceOrangeIntoContainer-cabot-sim-bc-rollout-2025-10-28T01-56-00+00-00-episode_10.pkl-mosaic_cam0.mp4",
+      "4": "PlaceOrangeIntoContainer-cabot-sim-bc-rollout-2025-10-28T01-56-00+00-00-episode_4.pkl-mosaic_cam0.mp4",
+      "28": "PlaceOrangeIntoContainer-cabot-sim-bc-rollout-2025-10-28T01-56-00+00-00-episode_28.pkl-mosaic_cam0.mp4",
+      "37": "PlaceOrangeIntoContainer-cabot-sim-bc-rollout-2025-10-28T01-56-00+00-00-episode_37.pkl-mosaic_cam0.mp4",
+      "5": "PlaceOrangeIntoContainer-cabot-sim-bc-rollout-2025-10-28T01-56-00+00-00-episode_5.pkl-mosaic_cam0.mp4"
+    }
+  },
+  "PlaceRedFoodIntoContainer": {
+    "baseline": {
+      "5": "PlaceRedFoodIntoContainer-cabot-sim-bc-rollout-2025-10-08T18-40-54+00-00-episode_5.pkl-mosaic_cam0.mp4",
+      "43": "PlaceRedFoodIntoContainer-cabot-sim-bc-rollout-2025-10-08T18-40-54+00-00-episode_43.pkl-mosaic_cam0.mp4",
+      "0": "PlaceRedFoodIntoContainer-cabot-sim-bc-rollout-2025-10-08T18-40-54+00-00-episode_0.pkl-mosaic_cam0.mp4",
+      "31": "PlaceRedFoodIntoContainer-cabot-sim-bc-rollout-2025-10-08T18-40-54+00-00-episode_31.pkl-mosaic_cam0.mp4",
+      "14": "PlaceRedFoodIntoContainer-cabot-sim-bc-rollout-2025-10-08T18-40-54+00-00-episode_14.pkl-mosaic_cam0.mp4"
+    },
+    "final": {
+      "5": "PlaceRedFoodIntoContainer-cabot-sim-bc-rollout-2025-10-28T02-40-23+00-00-episode_5.pkl-mosaic_cam0.mp4",
+      "31": "PlaceRedFoodIntoContainer-cabot-sim-bc-rollout-2025-10-28T02-40-23+00-00-episode_31.pkl-mosaic_cam0.mp4",
+      "14": "PlaceRedFoodIntoContainer-cabot-sim-bc-rollout-2025-10-28T02-40-23+00-00-episode_14.pkl-mosaic_cam0.mp4",
+      "0": "PlaceRedFoodIntoContainer-cabot-sim-bc-rollout-2025-10-28T02-40-23+00-00-episode_0.pkl-mosaic_cam0.mp4",
+      "43": "PlaceRedFoodIntoContainer-cabot-sim-bc-rollout-2025-10-28T02-40-23+00-00-episode_43.pkl-mosaic_cam0.mp4"
+    }
+  },
+  "PutAppleAndPearOnPlate": {
+    "baseline": {
+      "0": "PutAppleAndPearOnPlate-cabot-sim-bc-rollout-2025-10-08T18-06-54+00-00-episode_0.pkl-mosaic_cam0.mp4",
+      "1": "PutAppleAndPearOnPlate-cabot-sim-bc-rollout-2025-10-08T18-06-54+00-00-episode_1.pkl-mosaic_cam0.mp4",
+      "15": "PutAppleAndPearOnPlate-cabot-sim-bc-rollout-2025-10-08T18-06-54+00-00-episode_15.pkl-mosaic_cam0.mp4",
+      "10": "PutAppleAndPearOnPlate-cabot-sim-bc-rollout-2025-10-08T18-06-54+00-00-episode_10.pkl-mosaic_cam0.mp4",
+      "2": "PutAppleAndPearOnPlate-cabot-sim-bc-rollout-2025-10-08T18-06-54+00-00-episode_2.pkl-mosaic_cam0.mp4"
+    },
+    "final": {
+      "0": "PutAppleAndPearOnPlate-cabot-sim-bc-rollout-2025-10-28T02-16-46+00-00-episode_0.pkl-mosaic_cam0.mp4",
+      "15": "PutAppleAndPearOnPlate-cabot-sim-bc-rollout-2025-10-28T02-16-46+00-00-episode_15.pkl-mosaic_cam0.mp4",
+      "2": "PutAppleAndPearOnPlate-cabot-sim-bc-rollout-2025-10-28T02-16-46+00-00-episode_2.pkl-mosaic_cam0.mp4",
+      "10": "PutAppleAndPearOnPlate-cabot-sim-bc-rollout-2025-10-28T02-16-46+00-00-episode_10.pkl-mosaic_cam0.mp4",
+      "1": "PutAppleAndPearOnPlate-cabot-sim-bc-rollout-2025-10-28T02-16-46+00-00-episode_1.pkl-mosaic_cam0.mp4"
+    }
+  },
+  "PutKiwiOnPlateNoAvocado": {
+    "baseline": {
+      "19": "PutKiwiOnPlateNoAvocado-cabot-sim-bc-rollout-2025-10-08T16-28-33+00-00-episode_19.pkl-mosaic_cam0.mp4",
+      "8": "PutKiwiOnPlateNoAvocado-cabot-sim-bc-rollout-2025-10-08T16-28-33+00-00-episode_8.pkl-mosaic_cam0.mp4",
+      "6": "PutKiwiOnPlateNoAvocado-cabot-sim-bc-rollout-2025-10-08T16-28-33+00-00-episode_6.pkl-mosaic_cam0.mp4",
+      "9": "PutKiwiOnPlateNoAvocado-cabot-sim-bc-rollout-2025-10-08T16-28-33+00-00-episode_9.pkl-mosaic_cam0.mp4",
+      "28": "PutKiwiOnPlateNoAvocado-cabot-sim-bc-rollout-2025-10-08T16-28-33+00-00-episode_28.pkl-mosaic_cam0.mp4"
+    },
+    "final": {
+      "6": "PutKiwiOnPlateNoAvocado-cabot-sim-bc-rollout-2025-10-28T01-20-58+00-00-episode_6.pkl-mosaic_cam0.mp4",
+      "9": "PutKiwiOnPlateNoAvocado-cabot-sim-bc-rollout-2025-10-28T01-20-58+00-00-episode_9.pkl-mosaic_cam0.mp4",
+      "19": "PutKiwiOnPlateNoAvocado-cabot-sim-bc-rollout-2025-10-28T01-20-58+00-00-episode_19.pkl-mosaic_cam0.mp4",
+      "28": "PutKiwiOnPlateNoAvocado-cabot-sim-bc-rollout-2025-10-28T01-20-58+00-00-episode_28.pkl-mosaic_cam0.mp4",
+      "8": "PutKiwiOnPlateNoAvocado-cabot-sim-bc-rollout-2025-10-28T01-20-58+00-00-episode_8.pkl-mosaic_cam0.mp4"
+    }
+  },
+  "PutMugInCenterOfTable": {
+    "baseline": {
+      "8": "PutMugInCenterOfTable-cabot-sim-bc-rollout-2025-09-08T20-19-02+00-00-episode_8.pkl-mosaic_cam0.mp4",
+      "0": "PutMugInCenterOfTable-cabot-sim-bc-rollout-2025-09-08T20-19-02+00-00-episode_0.pkl-mosaic_cam0.mp4",
+      "17": "PutMugInCenterOfTable-cabot-sim-bc-rollout-2025-09-08T20-19-02+00-00-episode_17.pkl-mosaic_cam0.mp4",
+      "1": "PutMugInCenterOfTable-cabot-sim-bc-rollout-2025-09-08T20-19-02+00-00-episode_1.pkl-mosaic_cam0.mp4",
+      "6": "PutMugInCenterOfTable-cabot-sim-bc-rollout-2025-09-08T20-19-02+00-00-episode_6.pkl-mosaic_cam0.mp4"
+    },
+    "final": {
+      "0": "PutMugInCenterOfTable-cabot-sim-bc-rollout-2025-10-28T04-44-17+00-00-episode_0.pkl-mosaic_cam0.mp4",
+      "8": "PutMugInCenterOfTable-cabot-sim-bc-rollout-2025-10-28T04-44-17+00-00-episode_8.pkl-mosaic_cam0.mp4",
+      "1": "PutMugInCenterOfTable-cabot-sim-bc-rollout-2025-10-28T04-44-17+00-00-episode_1.pkl-mosaic_cam0.mp4",
+      "17": "PutMugInCenterOfTable-cabot-sim-bc-rollout-2025-10-28T04-44-17+00-00-episode_17.pkl-mosaic_cam0.mp4",
+      "6": "PutMugInCenterOfTable-cabot-sim-bc-rollout-2025-10-28T04-44-17+00-00-episode_6.pkl-mosaic_cam0.mp4"
+    }
+  },
+  "PutSpatulaInUtensilCrock": {
+    "baseline": {
+      "0": "PutSpatulaInUtensilCrock-riverway-sim-bc-rollout-2025-09-08T19-27-09+00-00-episode_0.pkl-mosaic_cam2.mp4",
+      "2": "PutSpatulaInUtensilCrock-riverway-sim-bc-rollout-2025-09-08T19-27-09+00-00-episode_2.pkl-mosaic_cam2.mp4",
+      "11": "PutSpatulaInUtensilCrock-riverway-sim-bc-rollout-2025-09-08T19-27-09+00-00-episode_11.pkl-mosaic_cam2.mp4",
+      "17": "PutSpatulaInUtensilCrock-riverway-sim-bc-rollout-2025-09-08T19-27-09+00-00-episode_17.pkl-mosaic_cam2.mp4",
+      "49": "PutSpatulaInUtensilCrock-riverway-sim-bc-rollout-2025-09-08T19-27-09+00-00-episode_49.pkl-mosaic_cam2.mp4"
+    },
+    "final": {
+      "2": "PutSpatulaInUtensilCrock-riverway-sim-bc-rollout-2025-10-28T03-52-00+00-00-episode_2.pkl-mosaic_cam2.mp4",
+      "17": "PutSpatulaInUtensilCrock-riverway-sim-bc-rollout-2025-10-28T03-52-00+00-00-episode_17.pkl-mosaic_cam2.mp4",
+      "49": "PutSpatulaInUtensilCrock-riverway-sim-bc-rollout-2025-10-28T03-52-00+00-00-episode_49.pkl-mosaic_cam2.mp4",
+      "0": "PutSpatulaInUtensilCrock-riverway-sim-bc-rollout-2025-10-28T03-52-00+00-00-episode_0.pkl-mosaic_cam2.mp4",
+      "11": "PutSpatulaInUtensilCrock-riverway-sim-bc-rollout-2025-10-28T03-52-00+00-00-episode_11.pkl-mosaic_cam2.mp4"
+    }
+  }
+}
